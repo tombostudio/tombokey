@@ -4,8 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>TomboKey</title>
 </head>
-
-<body style="font-size:14px;margin:0;background-color:#fcfaf6;color:black;font-family:-apple-system,arial,sans-serif;">
+<body style="margin:0;background:#fcfaf6;color:#111;font-family:-apple-system,Arial,sans-serif;">
 
 <div class="container" style="max-width:800px;margin:auto;padding:40px 20px;">
 
@@ -18,10 +17,8 @@
         width:128px;
         height:128px;
         border-radius:24px;
-        box-shadow: 0 8px 30px rgba(0,0,0,0.2);
-        background: radial-gradient(circle at top, #1f2937, #0f172a);
-        backdrop-filter: blur(12px);
-        transform: translateZ(0);
+        box-shadow:0 20px 40px rgba(0,0,0,0.2);
+        flex-shrink:0;
      ">
   
       <div style="max-width:500px;">
@@ -31,8 +28,7 @@
           A fast and lightweight Vietnamese input method for daily typing.
         </p>
   
-        <a href="#privacy"
-           style="display:inline-block;margin-top:10px;color:#60a5fa;text-decoration:none;">
+        <a href="#privacy" style="display:inline-block;margin-top:10px;color:#60a5fa;text-decoration:none;">
           Privacy Policy ↓
         </a>
       </div>
@@ -64,8 +60,7 @@
 
   </div>
 
-  <!-- SUPPORT -->
-  <div style="background:rgba(255,255,255,0.05);padding:20px;margin-top:10px;border-radius:16px;color:black;">
+  <div style="margin-top:50px;font-size:12px;opacity:0.6;text-align:center;color:#333;">
 
     <h2 style="margin:0 0 10px;">📩 Support</h2>
 
