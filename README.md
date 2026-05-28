@@ -38,7 +38,7 @@
   </div>
 
   <!-- FEATURES -->
-  <div style="background:rgba(1,1,1,.025);padding:20px;margin-top:20px;border-radius:16px;box-shadow:0 10px 30px rgba(0,0,0,0.05);">
+  <div style="background:white;padding:20px;margin-top:20px;border-radius:16px;box-shadow:0 10px 30px rgba(0,0,0,0.05);">
 
     <h2 style="margin:0 0 10px;">🚀 Features</h2>
 
@@ -53,7 +53,7 @@
 
   <!-- PRIVACY -->
   <div id="privacy"
-       style="background:rgba(1,1,1,.025);padding:20px;margin-top:20px;border-radius:16px;box-shadow:0 10px 30px rgba(0,0,0,0.05);">
+       style="background:white;padding:20px;margin-top:20px;border-radius:16px;box-shadow:0 10px 30px rgba(0,0,0,0.05);">
 
     <h2 style="margin:0 0 10px;">🔒 Privacy Policy</h2>
 
@@ -65,7 +65,7 @@
   </div>
 
   <!-- SUPPORT -->
-  <div style="background:rgba(1,1,1,.025);padding:20px;margin-top:20px;border-radius:16px;box-shadow:0 10px 30px rgba(0,0,0,0.05);">
+  <div style="background:white;padding:20px;margin-top:20px;border-radius:16px;box-shadow:0 10px 30px rgba(0,0,0,0.05);">
 
     <h2 style="margin:0 0 10px;">📩 Support</h2>
 
