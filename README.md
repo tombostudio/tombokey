@@ -5,7 +5,7 @@
   <title>TomboKey</title>
 </head>
 
-<body style="font-size:14px;margin:0;background:#fcfaf6;color:white;font-family:-apple-system,arial,sans-serif;">
+<body style="font-size:14px;margin:0;background-color:#fcfaf6;color:#fff;font-family:-apple-system,arial,sans-serif;">
 
 <div class="container" style="max-width:800px;margin:auto;padding:40px 20px;">
 
@@ -19,7 +19,7 @@
       <div style="max-width:500px;">
         <h1 style="margin:0 0 10px;font-size:32px;">TomboKey</h1>
   
-        <p style="margin:0;opacity:0.85;line-height:1.6;font-size:14px;">
+        <p style="margin:0;opacity:0.85;line-height:1.4;font-size:14px;">
           A fast and lightweight Vietnamese input method for daily typing.
         </p>
   
@@ -58,7 +58,7 @@
   </div>
 
   <!-- SUPPORT -->
-  <div style="background:rgba(255,255,255,0.05);padding:20px;margin-top:20px;border-radius:16px;">
+  <div style="background:rgba(255,255,255,0.05);padding:20px;margin-top:10px;border-radius:16px;">
 
     <h2 style="margin:0 0 10px;">📩 Support</h2>
 
