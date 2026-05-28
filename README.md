@@ -25,7 +25,7 @@
     <div style="max-width:500px;">
       <h1 style="margin:0 0 10px;font-size:32px;">TomboKey</h1>
 
-      <p style="margin:0;opacity:0.85;line-height:1.5;font-size:14px;">
+      <p style="margin:0;opacity:0.85;line-height:1.4;font-size:14px;">
         A fast and lightweight Vietnamese input method for daily typing.
       </p>
 
@@ -38,11 +38,11 @@
   </div>
 
   <!-- FEATURES -->
-  <div style="background:white;padding:20px;margin-top:20px;border-radius:16px;box-shadow:0 10px 30px rgba(0,0,0,0.05);">
+  <div style="background:rgba(1,1,1,.025);padding:20px;margin-top:20px;border-radius:16px;box-shadow:0 10px 30px rgba(0,0,0,0.05);">
 
     <h2 style="margin:0 0 10px;">🚀 Features</h2>
 
-    <p style="margin:0;line-height:1.7;">
+    <p style="margin:0;line-height:1.6;">
       • Fast, responsive typing and text replacement<br>
       • Clean minimal design<br>
       • No tracking, no ads<br>
@@ -53,11 +53,11 @@
 
   <!-- PRIVACY -->
   <div id="privacy"
-       style="background:white;padding:20px;margin-top:20px;border-radius:16px;box-shadow:0 10px 30px rgba(0,0,0,0.05);">
+       style="background:rgba(1,1,1,.025);padding:20px;margin-top:20px;border-radius:16px;box-shadow:0 10px 30px rgba(0,0,0,0.05);">
 
     <h2 style="margin:0 0 10px;">🔒 Privacy Policy</h2>
 
-    <p style="margin:0;line-height:1.7;">
+    <p style="margin:0;line-height:1.6;">
       This app does not collect personal data.<br>
       Everything stays on your device.
     </p>
@@ -65,15 +65,15 @@
   </div>
 
   <!-- SUPPORT -->
-  <div style="background:white;padding:20px;margin-top:20px;border-radius:16px;box-shadow:0 10px 30px rgba(0,0,0,0.05);">
+  <div style="background:rgba(1,1,1,.025);padding:20px;margin-top:20px;border-radius:16px;box-shadow:0 10px 30px rgba(0,0,0,0.05);">
 
     <h2 style="margin:0 0 10px;">📩 Support</h2>
 
-    <p style="margin:0;line-height:1.7;">
+    <p style="margin:0;line-height:1.6;">
       Email:
       <b>
         <a href="mailto:tombostudio9@gmail.com"
-           style="color:#2563eb;text-decoration:none;">
+           style="color:#005ed2;text-decoration:none;">
           tombostudio9@gmail.com
         </a>
       </b>
@@ -83,7 +83,7 @@
       <b>
         <a href="https://tinyurl.com/tombokey"
            target="_blank"
-           style="color:#2563eb;text-decoration:none;">
+           style="color:#005ed2;text-decoration:none;">
           tinyurl.com/tombokey
         </a>
       </b>
