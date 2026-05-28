@@ -5,7 +5,7 @@
   <title>TomboKey</title>
 </head>
 
-<body style="font-size:14px;margin:0;background:#0f172a;color:white;font-family:-apple-system,BlinkMacSystemFont,sans-serif;">
+<body style="font-size:14px;margin:0;background:#fcfaf6;color:white;font-family:-apple-system,arial,sans-serif;">
 
 <div class="container" style="max-width:800px;margin:auto;padding:40px 20px;">
 
@@ -76,7 +76,7 @@
         <a href="https://tinyurl.com/tombokey"
            target="_blank"
            style="color:#60a5fa;text-decoration:none;">
-          Open Form
+          tinyurl.com/tombokey
         </a>
       </b>
     </p>
