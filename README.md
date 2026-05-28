@@ -10,23 +10,22 @@
   
   <img src="https://i.imgur.com/3TodyST.png"
        alt="TomBoKey Icon"
-       style="width:120px;height:120px;border-radius:24px;flex-shrink:0;">
+       style="width:96px;height:auto;border-radius:24px;flex-shrink:0;">
 
   <div style="max-width:500px;">
     <h1 style="margin:0 0 10px;font-size:42px;">TomboKey</h1>
 
     <p style="margin:0;font-size:18px;opacity:0.85;line-height:1.6;">
-      A simple Vietnamese Input Method app designed to improve your typing experience.
-      Lightweight, smooth, and built for everyday use.
+      A fast and lightweight Vietnamese input method for daily typing. <a class="btn" href="#privacy">Privacy Policy</a>
     </p>
   </div>
 
 </div>
-<a class="btn" href="#privacy">Privacy Policy</a>
+<div style="background:rgba(255,255,255,0.05);padding:20px;margin-top:30px;border-radius:16px;backdrop-filter:blur(10px);">
 
-<div class="card">
-  <h2>🚀 Features</h2>
-  <p>
+  <h2 style="margin:0 0 10px;">🚀 Features</h2>
+
+  <p style="margin:0;line-height:1.7;">
     • Fast, responsive typing and text-replacement.<br>
     • Clean minimal design<br>
     • No tracking, no ads<br>
@@ -34,23 +33,43 @@
   </p>
 </div>
 
-<div class="card" id="privacy">
-  <h2>🔒 Privacy Policy</h2>
-  <p>
-    This app does not collect personal data.  
+
+<div id="privacy"
+     style="background:rgba(255,255,255,0.05);padding:20px;margin-top:30px;border-radius:16px;backdrop-filter:blur(10px);">
+
+  <h2 style="margin:0 0 10px;">🔒 Privacy Policy</h2>
+
+  <p style="margin:0;line-height:1.7;">
+    This app does not collect personal data.<br>
     Everything stays on your device.
   </p>
 </div>
 
-<div class="card">
-  <h2>📩 Support</h2>
-  <p>
-    Email: <b><a href="mailto:tombostudio9@gmail.com">tombostudio9@gmail.com</a></b><br>
-    Feedback Form: <b><a href="https://tinyurl.com/tombokey" target="_blank">https://tinyurl.com/tombokey</a></b>
+
+<div style="background:rgba(255,255,255,0.05);padding:20px;margin-top:30px;border-radius:16px;backdrop-filter:blur(10px);">
+
+  <h2 style="margin:0 0 10px;">📩 Support</h2>
+
+  <p style="margin:0;line-height:1.7;">
+    Email:
+    <b>
+      <a href="mailto:tombostudio9@gmail.com" style="color:#60a5fa;text-decoration:none;">
+        tombostudio9@gmail.com
+      </a>
+    </b>
+    <br><br>
+
+    Feedback Form:
+    <b>
+      <a href="https://tinyurl.com/tombokey" target="_blank" style="color:#60a5fa;text-decoration:none;">
+        https://tinyurl.com/tombokey
+      </a>
+    </b>
   </p>
 </div>
 
-<div class="footer">
+
+<div style="margin-top:50px;font-size:12px;opacity:0.5;text-align:center;">
   © 2026 Tombo Studio
 </div>
   </div>
