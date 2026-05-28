@@ -1,17 +1,12 @@
-<!DOCTYPE html>
-
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-
 </head>
 
 <body>
   <div class="container">
 
-```
 <!-- APP ICON -->
 <img class="logo" src="https://i.imgur.com/Hoh7asQ.png" width="256" alt="TomBoKey Icon">
 
@@ -45,20 +40,18 @@
 <div class="card">
   <h2>📩 Support</h2>
   <p>
-    Contact us at: <br>
-    <b>tombostudio9@gmail.com</b>
+    Email: <br>
+    <b><a href="mailto:tombostudio9@gmail.com">tombostudio9@gmail.com</a></b>
   </p>
   <p>
     Feddback Form: <br>
-    <b>[tinyurl.com/tombokey](https://tinyurl.com/tombokey)</b>
+    <b><a href="https://tinyurl.com/tombokey">https://tinyurl.com/tombokey</a></b>
   </p>
 </div>
 
 <div class="footer">
   © 2026 Tombo Studio
 </div>
-```
-
   </div>
 </body>
 </html>
