@@ -10,29 +10,28 @@
 <div class="container" style="max-width:800px;margin:auto;padding:40px 20px;">
 
   <!-- HERO -->
-  <div style="display:flex;align-items:center;justify-content:center;gap:20px;flex-wrap:wrap;text-align:left;">
+  <div style="display:flex;align-items:center;gap:20px;flex-wrap:wrap;text-align:left;justify-content:flex-start;">
 
-    <img src="https://i.imgur.com/xhqOkDL.png"
-         alt="TomBoKey Icon"
-         style="width:128px;height:128px;border-radius:24px;flex-shrink:0;">
-
-    <div style="max-width:500px;">
-      <h1 style="margin:0 0 10px;font-size:32px;">TomboKey</h1>
-
-      <p style="margin:0;opacity:0.85;line-height:1.6;font-size:14px;">
-        A fast and lightweight Vietnamese input method for daily typing.
-      </p>
-
-      <a href="#privacy"
-         style="display:inline-block;margin-top:10px;color:#60a5fa;text-decoration:none;">
-        Privacy Policy ↓
-      </a>
-    </div>
-
+      <img src="https://i.imgur.com/xhqOkDL.png"
+           alt="TomBoKey Icon"
+           style="width:128px;height:128px;border-radius:24px;flex-shrink:0;">
+  
+      <div style="max-width:500px;">
+        <h1 style="margin:0 0 10px;font-size:32px;">TomboKey</h1>
+  
+        <p style="margin:0;opacity:0.85;line-height:1.6;font-size:14px;">
+          A fast and lightweight Vietnamese input method for daily typing.
+        </p>
+  
+        <a href="#privacy"
+           style="display:inline-block;margin-top:10px;color:#60a5fa;text-decoration:none;">
+          Privacy Policy ↓
+        </a>
+      </div>
+  
   </div>
-
   <!-- FEATURES -->
-  <div style="background:rgba(255,255,255,0.05);padding:20px;margin-top:25px;border-radius:16px;">
+  <div style="background:rgba(255,255,255,0.05);padding:20px;margin-top:10px;border-radius:16px;">
 
     <h2 style="margin:0 0 10px;">🚀 Features</h2>
 
@@ -47,7 +46,7 @@
 
   <!-- PRIVACY -->
   <div id="privacy"
-       style="background:rgba(255,255,255,0.05);padding:20px;margin-top:20px;border-radius:16px;">
+       style="background:rgba(255,255,255,0.05);padding:20px;margin-top:10px;border-radius:16px;">
 
     <h2 style="margin:0 0 10px;">🔒 Privacy Policy</h2>
 
