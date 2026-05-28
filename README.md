@@ -4,7 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
-<body>
+<body style="font-size:14px;">
   <div class="container">
 <div style="display:flex;align-items:center;justify-content:center;gap:20px;flex-wrap:wrap;text-align:left;">
   
@@ -13,7 +13,7 @@
        style="width:96px;height:auto;border-radius:24px;flex-shrink:0;">
 
   <div style="max-width:500px;">
-    <h1 style="margin:0 0 10px;font-size:42px;">TomboKey</h1>
+    <h1 style="margin:0 0 10px;font-size:30px;">TomboKey</h1>
 
     <p style="margin:0;font-size:18px;opacity:0.85;line-height:1.6;">
       A fast and lightweight Vietnamese input method for daily typing. <a class="btn" href="#privacy">Privacy Policy</a>
