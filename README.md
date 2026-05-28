@@ -9,13 +9,13 @@
 <div style="display:flex;align-items:center;justify-content:center;gap:20px;flex-wrap:wrap;text-align:left;">
   
   <img src="https://i.imgur.com/xhqOkDL.png"
-       alt="TomBoKey Icon"
-       style="width:128px;height:auto;border-radius:24px;flex-shrink:0;">
+       alt="TomBoKey Icon" width="128" 
+       style="width:128px;border-radius:24px;flex-shrink:0;">
 
   <div style="max-width:500px;">
     <h1 style="margin:0 0 10px;font-size:30px;">TomboKey</h1>
 
-    <p style="margin:0;opacity:0.85;line-height:1.6;">
+    <p style="margin:0;opacity:0.85;line-height:1.6;font-size:14px;">
       A fast and lightweight Vietnamese input method for daily typing. <a class="btn" href="#privacy">Privacy Policy</a>
     </p>
   </div>
@@ -57,7 +57,7 @@
         tombostudio9@gmail.com
       </a>
     </b>
-    <br><br>
+    <br>
 
     Feedback Form:
     <b>
