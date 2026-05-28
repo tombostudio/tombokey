@@ -6,12 +6,22 @@
 
 <body>
   <div class="container">
-<img class="logo" src="https://i.imgur.com/3TodyST.png" alt="TomBoKey Icon" style="float:left;margin-right:20px">
-<h1>TomboKey</h1>
-<p>
-  A simple Vietnamese Input Method app designed to improve your typing experience.
-  Lightweight, smooth, and built for everyday use.
-</p>
+<div style="display:flex;align-items:center;justify-content:center;gap:20px;flex-wrap:wrap;text-align:left;">
+  
+  <img src="https://i.imgur.com/3TodyST.png"
+       alt="TomBoKey Icon"
+       style="width:120px;height:120px;border-radius:24px;flex-shrink:0;">
+
+  <div style="max-width:500px;">
+    <h1 style="margin:0 0 10px;font-size:42px;">TomboKey</h1>
+
+    <p style="margin:0;font-size:18px;opacity:0.85;line-height:1.6;">
+      A simple Vietnamese Input Method app designed to improve your typing experience.
+      Lightweight, smooth, and built for everyday use.
+    </p>
+  </div>
+
+</div>
 <a class="btn" href="#privacy">Privacy Policy</a>
 
 <div class="card">
