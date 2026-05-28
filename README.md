@@ -1,4 +1,4 @@
-# MyApp
+# TomBoKey - Vietnamese input method for macOS 26+
 
 Official landing page and privacy policy for the TomBoKey macOS application.
 
