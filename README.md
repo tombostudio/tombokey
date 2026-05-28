@@ -12,6 +12,6 @@ If future features require data collection, this privacy policy will be updated 
 
 For support or questions, contact:
 
-💌 [tombostudio9@gmail.com](mailto:tombostudio9@gmail.com)
+💌 Email: [tombostudio9@gmail.com](mailto:tombostudio9@gmail.com)
 
-📮 Contact Form: [https://your-link.com/contact](https://tinyurl.com/tombokey)
+📮 Contact: [tinyurl.com/tombokey](https://tinyurl.com/tombokey)
