@@ -6,7 +6,7 @@
 
 <body>
   <div class="container">
-<img class="logo" src="https://i.imgur.com/3TodyST.png" width="96" alt="TomBoKey Icon" style="float:left;margin-right:10px">
+<img class="logo" src="https://i.imgur.com/3TodyST.png" alt="TomBoKey Icon" style="float:left;margin-right:20px">
 <h1>TomboKey</h1>
 <p>
   A simple Vietnamese Input Method app designed to improve your typing experience.
