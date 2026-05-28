@@ -10,7 +10,7 @@ If future features require data collection, this privacy policy will be updated 
 
 ## Support
 
-For support or questions, contact:
+If you need help or want to report a problem:
 
 💌 Email: [tombostudio9@gmail.com](mailto:tombostudio9@gmail.com)
 
