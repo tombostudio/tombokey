@@ -6,23 +6,18 @@
 
 <body>
   <div class="container">
-
-<!-- APP ICON -->
-<img class="logo" src="https://i.imgur.com/Hoh7asQ.png" width="256" alt="TomBoKey Icon">
-
+<img class="logo" src="https://i.imgur.com/Hoh7asQ.png" width="96" alt="TomBoKey Icon" style="float:left;margin-right:10px">
 <h1>TomboKey</h1>
-
 <p>
-  A simple and fast keyboard app designed to improve your typing experience.
+  A simple Vietnamese Input Method app designed to improve your typing experience.
   Lightweight, smooth, and built for everyday use.
 </p>
-
 <a class="btn" href="#privacy">Privacy Policy</a>
 
 <div class="card">
   <h2>🚀 Features</h2>
   <p>
-    • Fast and responsive typing<br>
+    • Fast, responsive typing and text-replacement.<br>
     • Clean minimal design<br>
     • No tracking, no ads<br>
     • Works offline
@@ -40,12 +35,8 @@
 <div class="card">
   <h2>📩 Support</h2>
   <p>
-    Email: <br>
-    <b><a href="mailto:tombostudio9@gmail.com">tombostudio9@gmail.com</a></b>
-  </p>
-  <p>
-    Feddback Form: <br>
-    <b><a href="https://tinyurl.com/tombokey">https://tinyurl.com/tombokey</a></b>
+    Email: <b><a href="mailto:tombostudio9@gmail.com">tombostudio9@gmail.com</a></b><br>
+    Feedback Form: <b><a href="https://tinyurl.com/tombokey" target="_blank">https://tinyurl.com/tombokey</a></b>
   </p>
 </div>
 
