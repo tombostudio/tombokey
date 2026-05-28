@@ -5,7 +5,7 @@
   <title>TomboKey</title>
 </head>
 
-<body style="font-size:14px;margin:0;background-color:#fcfaf6;color:#fff;font-family:-apple-system,arial,sans-serif;">
+<body style="font-size:14px;margin:0;background-color:#fcfaf6;color:#111;font-family:-apple-system,arial,sans-serif;">
 
 <div class="container" style="max-width:800px;margin:auto;padding:40px 20px;">
 
@@ -13,8 +13,23 @@
   <div style="display:flex;align-items:center;gap:20px;flex-wrap:wrap;text-align:left;justify-content:flex-start;">
 
       <img src="https://i.imgur.com/xhqOkDL.png"
-           alt="TomBoKey Icon"
-           style="width:128px;height:128px;border-radius:24px;flex-shrink:0;">
+     alt="TomBoKey Icon"
+     style="
+        width:128px;
+        height:128px;
+        border-radius:24px;
+
+        /* shadow chính */
+        box-shadow: 0 20px 40px rgba(0,0,0,0.35);
+
+        /* glow nhẹ kiểu Apple */
+        background: radial-gradient(circle at top, #1f2937, #0f172a);
+        backdrop-filter: blur(12px);
+        filter: drop-shadow(0 0 12px rgba(59,130,246,0.6));
+
+        /* hiệu ứng nổi */
+        transform: translateZ(0);
+     ">
   
       <div style="max-width:500px;">
         <h1 style="margin:0 0 10px;font-size:32px;">TomboKey</h1>
