@@ -5,7 +5,7 @@
   <title>TomboKey</title>
 </head>
 
-<body style="font-size:14px;margin:0;background-color:#fcfaf6;color:#111;font-family:-apple-system,arial,sans-serif;">
+<body style="font-size:14px;margin:0;background-color:#fcfaf6;color:black;font-family:-apple-system,arial,sans-serif;">
 
 <div class="container" style="max-width:800px;margin:auto;padding:40px 20px;">
 
@@ -18,16 +18,10 @@
         width:128px;
         height:128px;
         border-radius:24px;
-
-        /* shadow chính */
         box-shadow: 0 20px 40px rgba(0,0,0,0.35);
-
-        /* glow nhẹ kiểu Apple */
         background: radial-gradient(circle at top, #1f2937, #0f172a);
         backdrop-filter: blur(12px);
         filter: drop-shadow(0 0 12px rgba(59,130,246,0.6));
-
-        /* hiệu ứng nổi */
         transform: translateZ(0);
      ">
   
@@ -46,7 +40,7 @@
   
   </div>
   <!-- FEATURES -->
-  <div style="background:rgba(255,255,255,0.05);padding:20px;margin-top:10px;border-radius:16px;">
+  <div style="background:rgba(255,255,255,0.05);padding:20px;margin-top:10px;border-radius:16px;color:black;">
 
     <h2 style="margin:0 0 10px;">🚀 Features</h2>
 
@@ -60,8 +54,7 @@
   </div>
 
   <!-- PRIVACY -->
-  <div id="privacy"
-       style="background:rgba(255,255,255,0.05);padding:20px;margin-top:10px;border-radius:16px;">
+  <div id="privacy"style="background:rgba(255,255,255,0.05);padding:20px;margin-top:10px;border-radius:16px;color:black;">
 
     <h2 style="margin:0 0 10px;">🔒 Privacy Policy</h2>
 
@@ -73,7 +66,7 @@
   </div>
 
   <!-- SUPPORT -->
-  <div style="background:rgba(255,255,255,0.05);padding:20px;margin-top:10px;border-radius:16px;">
+  <div style="background:rgba(255,255,255,0.05);padding:20px;margin-top:10px;border-radius:16px;color:black;">
 
     <h2 style="margin:0 0 10px;">📩 Support</h2>
 
@@ -99,7 +92,7 @@
   </div>
 
   <!-- FOOTER -->
-  <div style="margin-top:50px;font-size:12px;opacity:0.5;text-align:center;">
+  <div style="margin-top:50px;font-size:12px;opacity:0.5;text-align:center;color:black;">
     © 2026 Tombo Studio
   </div>
 
