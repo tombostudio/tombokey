@@ -18,10 +18,9 @@
         width:128px;
         height:128px;
         border-radius:24px;
-        box-shadow: 0 20px 40px rgba(0,0,0,0.35);
+        box-shadow: 0 8px 30px rgba(0,0,0,0.2);
         background: radial-gradient(circle at top, #1f2937, #0f172a);
         backdrop-filter: blur(12px);
-        filter: drop-shadow(0 0 12px rgba(59,130,246,0.6));
         transform: translateZ(0);
      ">
   
