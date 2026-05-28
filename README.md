@@ -40,16 +40,16 @@
     <h2 style="margin:0 0 10px;">🚀 Features</h2>
 
     <p style="margin:0;line-height:1.7;">
-      • Fast, responsive typing and text-replacement.<br>
-      • Clean minimal design<br>
-      • No tracking, no ads<br>
-      • Works offline
+      ⦿ Fast, responsive typing and text-replacement.<br>
+      ⦿ Clean minimal design<br>
+      ⦿ No tracking, no ads<br>
+      ⦿ Works offline
     </p>
 
   </div>
 
   <!-- PRIVACY -->
-  <div id="privacy"style="background:rgba(255,255,255,0.05);padding:20px;margin-top:10px;border-radius:16px;color:black;">
+  <div id="privacy" style="background:rgba(255,255,255,0.05);padding:20px;margin-top:10px;border-radius:16px;color:black;">
 
     <h2 style="margin:0 0 10px;">🔒 Privacy Policy</h2>
 
