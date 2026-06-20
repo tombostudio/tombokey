@@ -89,7 +89,7 @@
       <br>
       Donate:
       <b>
-        <img src="https://i.imgur.com/eA7AyGa.jpeg" width="80">
+        <img src="https://i.imgur.com/eA7AyGa.jpeg" alt="donate" style="width:80px;">
       </b>
     </p>
 
