@@ -78,13 +78,18 @@
         </a>
       </b>
       <br>
-      Feedback Form:
+      Feedback:
       <b>
         <a href="https://tinyurl.com/tombokey"
            target="_blank"
            style="color:#005ed2;text-decoration:none;">
           tinyurl.com/tombokey
         </a>
+      </b>
+      <br>
+      Donate:
+      <b>
+        <img src="https://i.imgur.com/eA7AyGa.jpeg" width="80">
       </b>
     </p>
 
